@@ -11,6 +11,7 @@
 - 선형 리스트 (Linear List)
 - 연결 리스트 (Linked List)
 #### 스택 (Stack)
+[Stack!](./자료구조/stack.md)
 #### 큐 (Queue)
 #### 덱 (Deque)
 ## 비선형구조
