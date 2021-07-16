@@ -1,5 +1,5 @@
-import java.util.Arrays;
 import java.util.Collections;
+import java.util.Arrays;
 
 class Solution{
     public int solution(int []A, int []B)
