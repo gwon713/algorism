@@ -1,7 +1,6 @@
-import java.util.*;
 import java.util.ArrayList;
 
-public class Solution {
+class Solution {
     public int[] solution(int []arr) {
         int[] answer = {};
         ArrayList<Integer> sub = new ArrayList<Integer>();

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Collections;
-class Solution
-{
+
+class Solution{
     public int solution(int []A, int []B)
     {
         int answer = 0;

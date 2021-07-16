@@ -1,4 +1,3 @@
-import java.util.Date;
 class Solution {
     public String solution(int a, int b) {
         String answer = "";
