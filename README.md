@@ -14,6 +14,9 @@
 [Stack!](./자료구조/stack.md)
 
 #### 큐 (Queue)
+
+[Queue!](./자료구조/queue.md)
+
 #### 덱 (Deque)
 ## 비선형구조
 #### 해시 테이블 (Hash table)
