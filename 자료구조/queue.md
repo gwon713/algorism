@@ -4,6 +4,9 @@
 
 ![queueimage](https://miro.medium.com/max/1196/1*PMYRFmVecFT61P4aAh0g1g.png)
 
+#### Enqueue : data를 queue의 맨 뒤에 입력
+#### Dequeue : 맨 앞에 있는 data를 출력 및 삭제
+
 ### 큐(Queue)의 사용 사례
 
 ##### 데이터가 입력된 시간 순서대로 처리해야 할 필요가 있는 상황에 이용한다.
