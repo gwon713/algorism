@@ -9,7 +9,7 @@
 
 [Array!](./자료구조/array.md)
 
-#### 리스트 (Linear List)
+#### 리스트 (List)
 - 선형 리스트 (Linear List)
 
 - 연결 리스트 (Linked List)
