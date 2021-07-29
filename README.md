@@ -5,13 +5,11 @@
 #### 자료(Data)들을 효율적으로 관리하기 위한 데이터 구조
 #### 프로그래밍에서 효율적으로 데이터를 처리하기 위해서는 데이터의 특성과 처리하는 상황에 맞는 구조화를 해야함!
 ## 선형구조 
-#### 배열 (Array)
-
-[Array!](./자료구조/array.md)
 
 #### 리스트 (List)
-- 선형 리스트 (Linear List)
+- 배열 (Array)
 
+  [Array!](./자료구조/array.md)
 - 연결 리스트 (Linked List)
 
   [Linked List!](./자료구조/linked_list.md)
