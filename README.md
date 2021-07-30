@@ -25,6 +25,9 @@
 [Queue!](./자료구조/queue.md)
 
 #### 덱 (Deque)
+
+[Deque!](./자료구조/deque.md)
+
 ## 비선형구조
 #### 해시 테이블 (Hash table)
 #### 트리 (Tree)
