@@ -37,8 +37,10 @@
 #### 힙 (Heap)
 #### 우선순위 큐(Priority Queue)
 
-
-
+### 깊이 우선 탐색(DFS) 
+![DFS](https://blog.kakaocdn.net/dn/xC9Vq/btqB8n5A25K/GyOf4iwqu8euOyhwtFuyj1/img.gif)
+### 너비 우선 탐색(BFS)
+![BFS](https://blog.kakaocdn.net/dn/c305k7/btqB5E2hI4r/ea7vFo08tkDYo4c8wkfVok/img.gif)
 ## 시간 복잡도
 
 ##### 알고리즘을 수행하기 위해 프로세스가 수행해야하는 연산을 수치화 한 것
